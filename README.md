@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abinashbunty" target="blank"><img src="https://img.shields.io/twitter/follow/abinashbunty?logo=twitter&style=for-the-badge" alt="abinashbunty" /></a> </p>
 
-- 🌱 I’m currently learning **AWS lamda**
+- 🌱 I’m currently learning **Serverless Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abinashbunty](https://github.com/Abinashbunty)
+- 👨‍💻 All of my projects are available at [https://github.com/Abinashbunty](https://github.com/Abinashbunty?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@Abinashbunty](https://medium.com/@Abinashbunty)
 
