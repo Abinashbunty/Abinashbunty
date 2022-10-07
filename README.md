@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinash Satapathy</h1>
-<h3 align="center">Computational Scientist with passion for Data Analytics &</h3>
+<h3 align="center">Computational Scientist with passion for Data Analytics & Optimisation.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinashbunty" alt="abinashbunty" /></a> </p>
 
