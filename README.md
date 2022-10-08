@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Serverless Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abinashbunty](https://github.com/Abinashbunty?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Abinashbunty?tab=repositories](https://github.com/Abinashbunty?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@Abinashbunty](https://medium.com/@Abinashbunty)
 
