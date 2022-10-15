@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinashbunty&theme=onedark&column=-1&title=MultiLanguage,PullRequest,Repositories,Commits,Issues" alt="abinashbunty" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abinashbunty" target="blank"><img src="https://img.shields.io/twitter/follow/abinashbunty?logo=twitter&style=for-the-badge" alt="abinashbunty" /></a> </p>
+<p align="center"> <a href="https://twitter.com/abinashbunty" target="blank"><img src="https://img.shields.io/twitter/follow/abinashbunty?logo=twitter&style=for-the-badge" alt="abinashbunty" /></a> </p>
 
 - 🌱 I’m currently learning **Serverless Computing**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abinashbunty" height="30" width="40" /></a>
 <a href="https://twitter.com/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abinashbunty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinashbunty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13858770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13858770" height="30" width="40" /></a>
+<a href="https://dev.to/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abinashbunty" height="30" width="40" /></a>
 <a href="https://kaggle.com/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abinashbunty" height="30" width="40" /></a>
 <a href="https://fb.com/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abinashbunty" height="30" width="40" /></a>
 <a href="https://instagram.com/abinashbunty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abinashbunty" height="30" width="40" /></a>
