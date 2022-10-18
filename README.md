@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Abinashbunty](https://medium.com/@Abinashbunty)
 
-- 💬 Ask me about **Python, JavaScript, LaTeX**
+- 💬 Ask me about **Python, JavaScript, LaTeX, Cyrptography & Data**
 
 - 📫 How to reach me **contact@abinash.nl**
 
