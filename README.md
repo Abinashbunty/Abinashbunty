@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, JavaScript, LaTeX, Cyrptography & Data**
 
-- 📫 How to reach me **contact@abinash.nl**
+- 📫 How to reach me: **contact@abinash.nl**
 
 - 📄 Know about my experiences [https://www.abinash.nl](https://www.abinash.nl)
 
