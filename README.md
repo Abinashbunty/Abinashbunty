@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available here on Github at [https://github.com/Abinashbunty?tab=repositories](https://github.com/Abinashbunty?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@Abinashbunty](https://medium.com/@Abinashbunty)
-  - Recently I have started a blog "Everyady Random Thoughts" to share about stuff that just cross my mind on a regular basis.
+  - Recently I have started a blog "[Everyady Random Thoughts](https://abinashbunty.blogspot.com/)" to share about stuff that just cross my mind on a regular basis.
 
 - 💬 Ask me about **Python, JavaScript, LaTeX, Cyrptography & Data**
 
