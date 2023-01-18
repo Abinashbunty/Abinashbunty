@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/abinashbunty" target="blank"><img src="https://img.shields.io/twitter/follow/abinashbunty?logo=twitter&style=for-the-badge" alt="abinashbunty" /></a> </p>
 
-- 🌱 I’m currently learning **Serverless Computing**
+- 🌱 I’m currently learning **Serverless Computing**.
 
 - 👨‍💻 All of my projects are available here on Github at [https://github.com/Abinashbunty?tab=repositories](https://github.com/Abinashbunty?tab=repositories)
 
