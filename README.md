@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abinashbunty/" target="_blank"><img src="https://img.shields.io/badge/Linked-In-0072b1.svg"></a>
-  <a href="https://github.com/Abinashbunty" target="_blank"><img src="https://img.shields.io/badge/GitHub-Abinashbunty-brightgreen.svg">
+  <a href="https://github.com/Abinashbunty" target="_blank"><img src="https://img.shields.io/badge/GitHub-Abinashbunty-239a3b.svg">
   <a href="https://twitter.com/Abinashbunty" target="_blank"><img src="https://img.shields.io/badge/Twitter-Abinashbunty-1DA1F2.svg">  
 </p>
 
