@@ -1,9 +1,14 @@
 <h1 align="center">Abinash Satapathy</h1>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abinashbunty/"><img src="https://img.shields.io/badge/Linked-In-0072b1.svg"></a>
+  <a href="https://github.com/Abinashbunty"><img src="https://img.shields.io/badge/GitHub-Abinashbunty-brightgreen.svg">
+  <a href="https://twitter.com/Abinashbunty"><img src="https://img.shields.io/badge/Twitter-Abinashbunty-1DA1F2.svg">  
+</p>
+    
 <h3 align="center">Computational Scientist with passion for Data Analytics & Optimisation. </h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinashbunty&theme=onedark&column=-1&,PullRequest,Repositories,Commits,Issues" alt="abinashbunty" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/abinashbunty" target="blank"><img src="https://img.shields.io/twitter/follow/abinashbunty?logo=twitter&style=for-the-badge" alt="abinashbunty" /></a> </p>
 
 - 🌱 I’m currently learning **Serverless Computing**.
 
