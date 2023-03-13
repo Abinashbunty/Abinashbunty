@@ -19,7 +19,7 @@
 - 📝 I regularly write articles on [https://medium.com/@Abinashbunty](https://medium.com/@Abinashbunty)
   - Recently I have started a blog "[Everyday Random Thoughts](https://abinashbunty.blogspot.com/)" to share about stuff that just cross my mind on a regular basis.
 
-- 💬 Ask me about **Python, JavaScript, LaTeX, Cyrptography & Data Analysis**
+- 💬 Ask me about **Python, JavaScript, LaTeX, Cyrptography & Data Analysis**.
 
 - 📫 How to reach me: **contact@abinash.nl**
 
