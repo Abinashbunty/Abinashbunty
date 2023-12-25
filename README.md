@@ -1,5 +1,5 @@
 <h1 align="center">Abinash Satapathy</h1>   
-<h3 align="center">Computational Scientist with passion for Data Analytics & Optimisation</h3>
+<h3 align="center">Computational Scientist with interests in Machine Learning, Quantum Computing & Optimisation</h3>
 
 
 <p align="center">
