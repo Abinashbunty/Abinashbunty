@@ -1,5 +1,5 @@
 <h1 align="center">Abinash Satapathy</h1>   
-<h3 align="center">Computational Scientist with interests in Machine Learning, Quantum Computing & Optimisation</h3>
+<h3 align="center">Computational Scientist with interests in Quantum Computing, Machine Learning, AI & Optimisation algorithms</h3>
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinashbunty&theme=onedark&column=-1&,PullRequest,Repositories,Commits,Issues" alt="abinashbunty" /></a> </p>
 
 
-- 🌱 I’m currently learning **Serverless Computing**.
+- 🌱 I’m currently experimenting with **Quantum Computing**.
 
 - 👨‍💻 All of my projects are available here on Github at [https://github.com/Abinashbunty?tab=repositories](https://github.com/Abinashbunty?tab=repositories)
 
