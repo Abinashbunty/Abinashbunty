@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available here on Github at [https://github.com/Abinashbunty?tab=repositories](https://github.com/Abinashbunty?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@Abinashbunty](https://medium.com/@Abinashbunty)
+- 📝 I regularly write articles on [blog.abinash.nl](https://blog.abinash.nl/)
 
 - 💬 Ask me about **Python, JavaScript, LaTeX, Cyrptography & Data Analysis**.
 
 - 📫 How to reach me: **contact@abinash.nl**
 
-- 📄 Know about my experiences at: [https://www.abinash.nl](https://abinash.nl)
+- 📄 Know about my experiences at: [abinash.nl](https://abinash.nl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
